@@ -8,9 +8,9 @@
 <!-- Project Information -->
 <section>
     <h2>Project Information</h2>
-    <p><strong>Name:</strong> Abhishek Chauhan</p>
+    <p><strong>Name:</strong> Sarang Chauhan</p>
     <p><strong>Company:</strong> Codtech IT Solutions</p>
-    <p><strong>ID:</strong> CT6WDS1850</p>
+    <p><strong>ID:</strong> CT6WDS1851</p>
     <p><strong>Domain:</strong> Machine Learning</p>
     <p><strong>Duration:</strong> September 5, 2024 to October 20, 2024</p>
 </section>
